@@ -5,7 +5,21 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 D
 src/chess/Color.java,6\f\6f5048016a57bbf452eb3bb3965bb62dfb909033
-w
-G.idea/sonarlint/issuestore/5/6/569116ac281d3b5a50977d5a00f8bce8c9e88ac6,b\6\b6312da381055ea22e014721afcfbbf09bce8bf8
+K
+src/boardgame/Position.java,6\1\61f04ddcd53c8e2006fef8201e5cd678001b0dc4
+I
+src/chess/ChessPiece.java,7\1\71903bb1710ecb2497d05dbcfd95a7ebafcda239
 Å
-Q.idea/sonarlint/securityhotspotstore/5/6/569116ac281d3b5a50977d5a00f8bce8c9e88ac6,e\3\e3e655159c009125aa4a2e83c0d35443204e2720
+Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
+Å
+Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
+w
+G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
+w
+G.idea/sonarlint/issuestore/6/f/6f5048016a57bbf452eb3bb3965bb62dfb909033,a\b\ab8d3f9fb91b77409ab18f8cd3ab8cceae13009e
+Å
+Q.idea/sonarlint/securityhotspotstore/6/f/6f5048016a57bbf452eb3bb3965bb62dfb909033,d\b\db0a3b54849a288f5038905e538345a9f82bddb9
+w
+G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
+9
+	Chess.iml,5\6\569116ac281d3b5a50977d5a00f8bce8c9e88ac6
