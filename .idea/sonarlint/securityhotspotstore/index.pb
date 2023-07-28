@@ -45,8 +45,6 @@ G.idea/sonarlint/issuestore/f/0/f0e0f9cec86fe4b939ae22be5264c758801eb28f,5\0\50
 Q.idea/sonarlint/securityhotspotstore/d/b/db0a3b54849a288f5038905e538345a9f82bddb9,9\3\93e79bfc9a6f44f2fa1b2602cf400e2c9610a69b
 w
 G.idea/sonarlint/issuestore/5/6/569116ac281d3b5a50977d5a00f8bce8c9e88ac6,b\6\b6312da381055ea22e014721afcfbbf09bce8bf8
-G
-src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
 Å
 Q.idea/sonarlint/securityhotspotstore/9/0/909762385fc6eb20f922a91c6865741308b57f2c,e\0\e0ea4108d198a3d2e4e87c48063db9d2bffad652
 Å
@@ -55,5 +53,3 @@ w
 G.idea/sonarlint/issuestore/b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c,8\4\84e95bd0ea795e5307464eb72e7bd95d9f673c00
 Å
 Q.idea/sonarlint/securityhotspotstore/5/6/569116ac281d3b5a50977d5a00f8bce8c9e88ac6,e\3\e3e655159c009125aa4a2e83c0d35443204e2720
-K
-src/boardgame/Position.java,6\1\61f04ddcd53c8e2006fef8201e5cd678001b0dc4

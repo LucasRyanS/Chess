@@ -51,9 +51,5 @@ w
 G.idea/sonarlint/issuestore/b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c,8\4\84e95bd0ea795e5307464eb72e7bd95d9f673c00
 Å
 Q.idea/sonarlint/securityhotspotstore/5/6/569116ac281d3b5a50977d5a00f8bce8c9e88ac6,e\3\e3e655159c009125aa4a2e83c0d35443204e2720
-K
-src/boardgame/Position.java,6\1\61f04ddcd53c8e2006fef8201e5cd678001b0dc4
 Q
 !src/boardgame/BoardException.java,c\d\cd20c15b434e2bd9d33b559985a9b393401fdb2d
-G
-src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
