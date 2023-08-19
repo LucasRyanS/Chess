@@ -12,7 +12,7 @@ public class King extends ChessPiece {
 
     public King(Board board, Color color, ChessMatch chessMatch) {
         super(board, color);
-        this.chessMatch = chessMatch
+        this.chessMatch = chessMatch;
     }
 
     public String toString(){
